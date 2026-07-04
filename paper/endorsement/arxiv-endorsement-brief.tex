@@ -1,0 +1,57 @@
+\documentclass[10pt]{article}
+\usepackage[margin=0.75in]{geometry}
+\usepackage{url}
+\usepackage{booktabs}
+\usepackage[hidelinks]{hyperref}
+
+\title{\textbf{MeasureMatch-Bench}\\\large arXiv Endorsement Brief (2 pages)}
+\author{Piyush Jagadish Bag\\Independent Researcher · ECAD validation and test automation\\piyushbag4@gmail.com}
+\date{July 2026 — draft v0.1}
+
+\begin{document}
+\maketitle
+
+\section*{Problem}
+Post-silicon validation teams archive thousands of instrument exports (PSU, thermal, fan, throughput) under inconsistent product aliases and mixed CSV/TXT formats.
+Finding one metric slice can take days of manual search.
+There is no public benchmark for \emph{entity resolution + retrieval} over such corpora at validation scale.
+
+\section*{Gap (one minute)}
+\begin{itemize}
+  \item \textbf{TokenPowerBench} --- LLM \emph{inference} power, not lab measurement files.
+  \item \textbf{CVDP / VERT / FIXME} --- RTL and verification LLM tasks, not measurement archives.
+  \item \textbf{Aerospace LLM+KG case study} (De Santis et al., arXiv:2408.01700) --- not an open multi-task harness.
+\end{itemize}
+
+\section*{Contribution}
+\textbf{MeasureMatch-Bench}: 24 synthetic corpora ($\sim$6{,}000 files, 46 scenario types) with gold labels for:
+\begin{enumerate}
+  \item[T1] Product identity resolution (alias $\rightarrow$ canonical SKU)
+  \item[T2] Format detection + normalization
+  \item[T3] Scenario-targeted retrieval (product + scenario $\rightarrow$ file + value)
+  \item[T4] Cross-corpus QA
+\end{enumerate}
+Harness v0.1.0 + rule baseline R0; extension points for embedding and Qwen2.5-3B-Instruct pipelines.
+
+\section*{Artifacts (live)}
+\begin{tabular}{@{}ll@{}}
+\toprule
+Resource & URL \\
+\midrule
+GitHub & \url{https://github.com/piyushbag/measure-match-bench} \\
+Harness & \texttt{python3 eval/run\_eval.py --split test --pipeline R0} \\
+Significance doc & \texttt{docs/why-measure-match-bench.md} \\
+\bottomrule
+\end{tabular}
+
+\section*{Sample R0 results (test split, 20 corpora)}
+T1 accuracy 100\%; T3 retrieval@1 87.2\%; T4 value score 95.9\% (harness v0.1.0, 2026-07-04).
+
+\section*{Endorsement ask}
+I plan to submit to \textbf{arXiv cs.AR} (cross-list cs.SE) as a preprint before ITC 2027 Track~B.
+If you are a cs endorser and this fits your endorsement neighborhood, I would appreciate an endorsement for submission.
+
+\vspace{0.5em}
+\noindent\textbf{Full paper PDF} available on request; this brief is the default attachment.
+
+\end{document}

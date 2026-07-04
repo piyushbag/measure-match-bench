@@ -1,0 +1,19 @@
+# R0 alias normalization rules (MeasureMatch-Bench)
+version: "0.1.0"
+
+prefix_strip:
+  - "proto_"
+
+token_replace:
+  - from: "PN-"
+    to: "SKU-"
+  - from: "PN_"
+    to: "SKU-"
+
+char_normalize:
+  underscore_to_hyphen: true
+  lowercase: true
+
+fuzzy:
+  enabled: true
+  cutoff: 0.82
