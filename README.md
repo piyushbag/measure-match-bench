@@ -33,10 +33,8 @@ Hardware validation teams accumulate thousands of unstructured measurement files
 |-----------|--------|
 | Intake + wedge | Done (2026-07-03) |
 | Benchmark spec | Draft |
-| Synthetic corpus generator | Planned |
-| Eval harness | Scaffold |
-| Zenodo DOI | Planned |
-| arXiv preprint | Not submitted |
+| Synthetic corpus (24 × ~250 files) | **Generated** |
+| GitHub public | **Live** |
 
 ## Citation
 

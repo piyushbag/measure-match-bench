@@ -3,7 +3,7 @@
 | Milestone | Target | Status | URL / ID |
 |-----------|--------|--------|----------|
 | Repo scaffold | 2026-07-03 | Done | local `measure-match-bench` |
-| GitHub public | TBD | Planned | `piyushbag/measure-match-bench` |
+| GitHub public | 2026-07-04 | **Live** | https://github.com/piyushbag/measure-match-bench |
 | Corpus v1.0.0 | TBD | **24 corpora generated** (2026-07-04) | ~6k files |
 | Harness v0.1.0 | TBD | Scaffold | `eval/run_eval.py` |
 | Zenodo DOI | Before endorsement | Planned | — |
