@@ -1,0 +1,3 @@
+SCENARIO=fan_acoustic_proxy
+ALIAS=PN-corpus-017-0035
+VALUE=422.8330

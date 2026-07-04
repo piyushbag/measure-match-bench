@@ -1,0 +1,3 @@
+SCENARIO=fan_zone_front
+ALIAS=SKU-corpus-024-0033_revB
+VALUE=137.9196

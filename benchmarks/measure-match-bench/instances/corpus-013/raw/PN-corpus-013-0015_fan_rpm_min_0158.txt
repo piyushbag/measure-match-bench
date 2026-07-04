@@ -1,0 +1,3 @@
+SCENARIO=fan_rpm_min
+ALIAS=PN-corpus-013-0015
+VALUE=12.0398

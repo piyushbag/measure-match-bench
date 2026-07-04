@@ -1,0 +1,3 @@
+SCENARIO=throughput_latency_p99
+ALIAS=SKU_corpus_007_0028
+VALUE=253.3792

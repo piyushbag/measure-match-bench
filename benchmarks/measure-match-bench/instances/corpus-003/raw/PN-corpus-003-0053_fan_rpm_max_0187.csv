@@ -1,0 +1,4 @@
+# scenario=fan_rpm_max
+product_alias,PN-corpus-003-0053
+metric,value
+fan_rpm_max,462.7602

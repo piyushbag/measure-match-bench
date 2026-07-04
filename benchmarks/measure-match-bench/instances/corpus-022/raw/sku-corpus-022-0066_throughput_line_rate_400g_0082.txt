@@ -1,0 +1,3 @@
+SCENARIO=throughput_line_rate_400g
+ALIAS=sku-corpus-022-0066
+VALUE=431.1926

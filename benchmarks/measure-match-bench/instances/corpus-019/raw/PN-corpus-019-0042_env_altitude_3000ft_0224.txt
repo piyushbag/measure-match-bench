@@ -1,0 +1,3 @@
+SCENARIO=env_altitude_3000ft
+ALIAS=PN-corpus-019-0042
+VALUE=259.8040

@@ -1,0 +1,3 @@
+SCENARIO=fan_redundancy_failover
+ALIAS=PN-corpus-008-0025
+VALUE=361.5845

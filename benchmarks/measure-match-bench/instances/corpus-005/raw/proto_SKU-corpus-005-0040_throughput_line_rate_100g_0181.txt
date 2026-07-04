@@ -1,0 +1,3 @@
+SCENARIO=throughput_line_rate_100g
+ALIAS=proto_SKU-corpus-005-0040
+VALUE=312.0363

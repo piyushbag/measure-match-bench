@@ -1,0 +1,3 @@
+SCENARIO=psu_efficiency_80pct
+ALIAS=proto_SKU-corpus-018-0050
+VALUE=318.1534

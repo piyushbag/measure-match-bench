@@ -1,0 +1,3 @@
+SCENARIO=fan_cfm_vs_pwm
+ALIAS=PN-corpus-019-0014
+VALUE=108.6222

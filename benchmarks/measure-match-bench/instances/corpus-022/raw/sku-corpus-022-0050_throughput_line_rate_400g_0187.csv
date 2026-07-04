@@ -1,0 +1,4 @@
+# scenario=throughput_line_rate_400g
+product_alias,sku-corpus-022-0050
+metric,value
+throughput_line_rate_400g,416.0307

@@ -1,0 +1,4 @@
+# scenario=throughput_drop_rate
+product_alias,SKU-corpus-012-0052_revB
+metric,value
+throughput_drop_rate,84.2510

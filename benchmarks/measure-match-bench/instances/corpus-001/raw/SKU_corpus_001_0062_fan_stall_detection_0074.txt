@@ -1,0 +1,3 @@
+SCENARIO=fan_stall_detection
+ALIAS=SKU_corpus_001_0062
+VALUE=480.7859

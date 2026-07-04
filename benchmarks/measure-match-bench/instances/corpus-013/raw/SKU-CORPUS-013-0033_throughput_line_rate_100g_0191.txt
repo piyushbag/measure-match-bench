@@ -1,0 +1,3 @@
+SCENARIO=throughput_line_rate_100g
+ALIAS=SKU-CORPUS-013-0033
+VALUE=94.0607

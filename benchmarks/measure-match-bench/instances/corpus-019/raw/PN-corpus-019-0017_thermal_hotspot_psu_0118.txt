@@ -1,0 +1,3 @@
+SCENARIO=thermal_hotspot_psu
+ALIAS=PN-corpus-019-0017
+VALUE=363.8126

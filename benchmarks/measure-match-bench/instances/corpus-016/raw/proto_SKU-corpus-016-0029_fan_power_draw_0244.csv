@@ -1,0 +1,4 @@
+# scenario=fan_power_draw
+product_alias,proto_SKU-corpus-016-0029
+metric,value
+fan_power_draw,319.8564

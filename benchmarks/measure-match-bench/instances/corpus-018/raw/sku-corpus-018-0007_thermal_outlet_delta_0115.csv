@@ -1,0 +1,4 @@
+# scenario=thermal_outlet_delta
+product_alias,sku-corpus-018-0007
+metric,value
+thermal_outlet_delta,85.0120

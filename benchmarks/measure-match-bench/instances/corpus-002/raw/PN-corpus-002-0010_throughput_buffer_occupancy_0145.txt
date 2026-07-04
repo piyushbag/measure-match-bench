@@ -1,0 +1,3 @@
+SCENARIO=throughput_buffer_occupancy
+ALIAS=PN-corpus-002-0010
+VALUE=420.8433

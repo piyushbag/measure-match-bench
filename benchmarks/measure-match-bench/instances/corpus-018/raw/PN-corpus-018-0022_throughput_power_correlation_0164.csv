@@ -1,0 +1,4 @@
+# scenario=throughput_power_correlation
+product_alias,PN-corpus-018-0022
+metric,value
+throughput_power_correlation,126.2059

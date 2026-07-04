@@ -1,0 +1,4 @@
+# scenario=thermal_hotspot_psu
+product_alias,PN-corpus-023-0009
+metric,value
+thermal_hotspot_psu,499.0791

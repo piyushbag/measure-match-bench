@@ -1,0 +1,3 @@
+SCENARIO=thermal_ambient_25c
+ALIAS=SKU_corpus_008_0012
+VALUE=93.4701

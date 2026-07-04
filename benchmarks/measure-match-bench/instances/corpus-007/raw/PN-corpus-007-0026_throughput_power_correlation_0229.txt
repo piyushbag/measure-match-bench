@@ -1,0 +1,3 @@
+SCENARIO=throughput_power_correlation
+ALIAS=PN-corpus-007-0026
+VALUE=474.0629

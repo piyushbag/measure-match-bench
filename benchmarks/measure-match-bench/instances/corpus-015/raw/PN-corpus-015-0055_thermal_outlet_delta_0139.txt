@@ -1,0 +1,3 @@
+SCENARIO=thermal_outlet_delta
+ALIAS=PN-corpus-015-0055
+VALUE=232.0632

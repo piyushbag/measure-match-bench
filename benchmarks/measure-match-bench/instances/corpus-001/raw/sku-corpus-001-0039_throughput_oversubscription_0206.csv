@@ -1,0 +1,4 @@
+# scenario=throughput_oversubscription
+product_alias,sku-corpus-001-0039
+metric,value
+throughput_oversubscription,293.1801

@@ -1,0 +1,3 @@
+SCENARIO=throughput_warmup
+ALIAS=PN-corpus-001-0078
+VALUE=174.8343

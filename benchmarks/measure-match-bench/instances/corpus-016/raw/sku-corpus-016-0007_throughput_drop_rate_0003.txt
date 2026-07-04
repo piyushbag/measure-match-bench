@@ -1,0 +1,3 @@
+SCENARIO=throughput_drop_rate
+ALIAS=sku-corpus-016-0007
+VALUE=145.9622

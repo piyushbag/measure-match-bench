@@ -1,0 +1,3 @@
+SCENARIO=thermal_hotspot_asic
+ALIAS=SKU-CORPUS-003-0061
+VALUE=86.0543

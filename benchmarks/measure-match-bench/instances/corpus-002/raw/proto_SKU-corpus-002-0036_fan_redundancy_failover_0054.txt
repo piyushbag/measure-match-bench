@@ -1,0 +1,3 @@
+SCENARIO=fan_redundancy_failover
+ALIAS=proto_SKU-corpus-002-0036
+VALUE=461.9365

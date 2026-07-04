@@ -1,0 +1,3 @@
+SCENARIO=thermal_ramp_down
+ALIAS=SKU-corpus-008-0020_revB
+VALUE=77.8660

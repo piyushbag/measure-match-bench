@@ -1,0 +1,3 @@
+SCENARIO=thermal_inlet_delta
+ALIAS=sku-corpus-016-0025
+VALUE=129.9243

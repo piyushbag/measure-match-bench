@@ -1,0 +1,3 @@
+SCENARIO=thermal_ambient_45c
+ALIAS=SKU-corpus-024-0036_revB
+VALUE=170.1047

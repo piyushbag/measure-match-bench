@@ -1,0 +1,3 @@
+SCENARIO=psu_wall_power_idle
+ALIAS=SKU-CORPUS-001-0068
+VALUE=32.3027

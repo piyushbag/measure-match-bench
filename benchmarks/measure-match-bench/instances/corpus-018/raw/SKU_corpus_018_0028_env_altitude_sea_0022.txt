@@ -1,0 +1,3 @@
+SCENARIO=env_altitude_sea
+ALIAS=SKU_corpus_018_0028
+VALUE=445.3011

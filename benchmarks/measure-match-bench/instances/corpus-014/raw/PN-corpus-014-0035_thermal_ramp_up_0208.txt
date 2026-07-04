@@ -1,0 +1,3 @@
+SCENARIO=thermal_ramp_up
+ALIAS=PN-corpus-014-0035
+VALUE=344.4378

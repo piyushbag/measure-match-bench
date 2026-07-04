@@ -1,0 +1,3 @@
+SCENARIO=throughput_packet_1518b
+ALIAS=sku-corpus-023-0056
+VALUE=75.5569

@@ -1,0 +1,3 @@
+SCENARIO=fan_rpm_50pct
+ALIAS=SKU_corpus_011_0015
+VALUE=421.1066

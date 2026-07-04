@@ -1,0 +1,4 @@
+# scenario=fan_rpm_max
+product_alias,SKU_corpus_006_0048
+metric,value
+fan_rpm_max,300.0909

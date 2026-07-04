@@ -1,0 +1,3 @@
+SCENARIO=psu_internal_rail_3v3
+ALIAS=PN-corpus-017-0050
+VALUE=355.9571

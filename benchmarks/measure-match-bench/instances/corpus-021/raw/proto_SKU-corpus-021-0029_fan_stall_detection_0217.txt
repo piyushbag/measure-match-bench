@@ -1,0 +1,3 @@
+SCENARIO=fan_stall_detection
+ALIAS=proto_SKU-corpus-021-0029
+VALUE=194.6325

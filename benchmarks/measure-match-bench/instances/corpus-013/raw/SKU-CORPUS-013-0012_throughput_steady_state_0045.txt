@@ -1,0 +1,3 @@
+SCENARIO=throughput_steady_state
+ALIAS=SKU-CORPUS-013-0012
+VALUE=152.1784

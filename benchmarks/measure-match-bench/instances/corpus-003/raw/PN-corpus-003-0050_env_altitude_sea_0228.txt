@@ -1,0 +1,3 @@
+SCENARIO=env_altitude_sea
+ALIAS=PN-corpus-003-0050
+VALUE=489.7694

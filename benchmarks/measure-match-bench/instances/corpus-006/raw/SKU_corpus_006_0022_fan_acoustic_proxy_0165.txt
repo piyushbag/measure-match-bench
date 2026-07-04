@@ -1,0 +1,3 @@
+SCENARIO=fan_acoustic_proxy
+ALIAS=SKU_corpus_006_0022
+VALUE=137.8389

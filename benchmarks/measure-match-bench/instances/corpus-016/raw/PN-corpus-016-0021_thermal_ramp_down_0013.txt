@@ -1,0 +1,3 @@
+SCENARIO=thermal_ramp_down
+ALIAS=PN-corpus-016-0021
+VALUE=347.5275

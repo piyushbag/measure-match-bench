@@ -1,0 +1,3 @@
+SCENARIO=thermal_ramp_up
+ALIAS=PN-corpus-022-0036
+VALUE=302.0311

@@ -1,0 +1,3 @@
+SCENARIO=psu_efficiency_20pct
+ALIAS=PN-corpus-020-0034
+VALUE=279.4368

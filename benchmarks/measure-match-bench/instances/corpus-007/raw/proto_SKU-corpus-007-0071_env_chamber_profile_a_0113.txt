@@ -1,0 +1,3 @@
+SCENARIO=env_chamber_profile_a
+ALIAS=proto_SKU-corpus-007-0071
+VALUE=107.6964

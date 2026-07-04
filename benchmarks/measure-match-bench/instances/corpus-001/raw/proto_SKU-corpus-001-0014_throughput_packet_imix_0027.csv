@@ -1,0 +1,4 @@
+# scenario=throughput_packet_imix
+product_alias,proto_SKU-corpus-001-0014
+metric,value
+throughput_packet_imix,134.8140

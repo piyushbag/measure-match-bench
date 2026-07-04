@@ -1,0 +1,3 @@
+SCENARIO=env_humidity_low
+ALIAS=proto_SKU-corpus-001-0024
+VALUE=146.5155

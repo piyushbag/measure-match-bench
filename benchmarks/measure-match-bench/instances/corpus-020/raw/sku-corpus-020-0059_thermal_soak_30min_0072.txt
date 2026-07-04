@@ -1,0 +1,3 @@
+SCENARIO=thermal_soak_30min
+ALIAS=sku-corpus-020-0059
+VALUE=36.4987

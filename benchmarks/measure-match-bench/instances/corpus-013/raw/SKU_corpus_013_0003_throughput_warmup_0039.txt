@@ -1,0 +1,3 @@
+SCENARIO=throughput_warmup
+ALIAS=SKU_corpus_013_0003
+VALUE=138.2024

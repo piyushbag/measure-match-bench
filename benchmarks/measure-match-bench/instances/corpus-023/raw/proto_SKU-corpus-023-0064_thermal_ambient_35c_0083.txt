@@ -1,0 +1,3 @@
+SCENARIO=thermal_ambient_35c
+ALIAS=proto_SKU-corpus-023-0064
+VALUE=162.4432

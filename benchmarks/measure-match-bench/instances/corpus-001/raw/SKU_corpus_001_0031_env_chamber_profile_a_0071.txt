@@ -1,0 +1,3 @@
+SCENARIO=env_chamber_profile_a
+ALIAS=SKU_corpus_001_0031
+VALUE=426.6437

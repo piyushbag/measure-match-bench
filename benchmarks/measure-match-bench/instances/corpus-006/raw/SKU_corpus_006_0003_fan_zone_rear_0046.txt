@@ -1,0 +1,3 @@
+SCENARIO=fan_zone_rear
+ALIAS=SKU_corpus_006_0003
+VALUE=103.4627

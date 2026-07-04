@@ -1,0 +1,3 @@
+SCENARIO=env_chamber_profile_a
+ALIAS=sku-corpus-013-0044
+VALUE=464.3235

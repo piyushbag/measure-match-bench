@@ -1,0 +1,3 @@
+SCENARIO=env_altitude_sea
+ALIAS=proto_SKU-corpus-011-0010
+VALUE=239.4002

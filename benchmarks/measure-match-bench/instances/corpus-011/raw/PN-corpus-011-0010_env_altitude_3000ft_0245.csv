@@ -1,0 +1,4 @@
+# scenario=env_altitude_3000ft
+product_alias,PN-corpus-011-0010
+metric,value
+env_altitude_3000ft,213.3566

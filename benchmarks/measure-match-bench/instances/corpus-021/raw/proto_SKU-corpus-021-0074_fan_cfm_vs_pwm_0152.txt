@@ -1,0 +1,3 @@
+SCENARIO=fan_cfm_vs_pwm
+ALIAS=proto_SKU-corpus-021-0074
+VALUE=463.2661

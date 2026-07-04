@@ -1,0 +1,514 @@
+[
+  {
+    "canonical_id": "SKU-corpus-024-0000",
+    "aliases": [
+      "sku-corpus-024-0000",
+      "proto_SKU-corpus-024-0000",
+      "SKU-CORPUS-024-0000",
+      "SKU-corpus-024-0000_revB"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0001",
+    "aliases": [
+      "sku-corpus-024-0001",
+      "SKU-corpus-024-0001_revB",
+      "PN-corpus-024-0001",
+      "proto_SKU-corpus-024-0001"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0002",
+    "aliases": [
+      "SKU-CORPUS-024-0002",
+      "SKU-corpus-024-0002_revB",
+      "SKU_corpus_024_0002",
+      "sku-corpus-024-0002",
+      "proto_SKU-corpus-024-0002"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0003",
+    "aliases": [
+      "proto_SKU-corpus-024-0003",
+      "SKU-corpus-024-0003_revB",
+      "PN-corpus-024-0003"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0004",
+    "aliases": [
+      "sku-corpus-024-0004",
+      "SKU_corpus_024_0004"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0005",
+    "aliases": [
+      "PN-corpus-024-0005",
+      "SKU-CORPUS-024-0005",
+      "SKU-corpus-024-0005_revB"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0006",
+    "aliases": [
+      "SKU-CORPUS-024-0006",
+      "PN-corpus-024-0006"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0007",
+    "aliases": [
+      "PN-corpus-024-0007",
+      "SKU-corpus-024-0007_revB",
+      "sku-corpus-024-0007"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0008",
+    "aliases": [
+      "proto_SKU-corpus-024-0008",
+      "PN-corpus-024-0008",
+      "SKU-CORPUS-024-0008"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0009",
+    "aliases": [
+      "SKU_corpus_024_0009",
+      "PN-corpus-024-0009",
+      "SKU-CORPUS-024-0009",
+      "proto_SKU-corpus-024-0009"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0010",
+    "aliases": [
+      "SKU_corpus_024_0010",
+      "sku-corpus-024-0010"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0011",
+    "aliases": [
+      "PN-corpus-024-0011",
+      "SKU_corpus_024_0011",
+      "proto_SKU-corpus-024-0011"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0012",
+    "aliases": [
+      "SKU-corpus-024-0012_revB",
+      "SKU-CORPUS-024-0012",
+      "SKU_corpus_024_0012"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0013",
+    "aliases": [
+      "SKU-CORPUS-024-0013",
+      "PN-corpus-024-0013",
+      "proto_SKU-corpus-024-0013",
+      "SKU-corpus-024-0013_revB"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0014",
+    "aliases": [
+      "sku-corpus-024-0014",
+      "SKU-corpus-024-0014_revB",
+      "SKU-CORPUS-024-0014"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0015",
+    "aliases": [
+      "sku-corpus-024-0015",
+      "SKU-CORPUS-024-0015",
+      "SKU-corpus-024-0015_revB"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0016",
+    "aliases": [
+      "PN-corpus-024-0016",
+      "sku-corpus-024-0016"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0017",
+    "aliases": [
+      "sku-corpus-024-0017"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0018",
+    "aliases": [
+      "SKU-CORPUS-024-0018",
+      "sku-corpus-024-0018",
+      "SKU_corpus_024_0018"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0019",
+    "aliases": [
+      "SKU-corpus-024-0019_revB",
+      "PN-corpus-024-0019",
+      "sku-corpus-024-0019",
+      "proto_SKU-corpus-024-0019"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0020",
+    "aliases": [
+      "SKU-corpus-024-0020_revB",
+      "PN-corpus-024-0020"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0021",
+    "aliases": [
+      "SKU-CORPUS-024-0021",
+      "PN-corpus-024-0021",
+      "proto_SKU-corpus-024-0021"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0022",
+    "aliases": [
+      "proto_SKU-corpus-024-0022",
+      "SKU-corpus-024-0022_revB",
+      "sku-corpus-024-0022",
+      "PN-corpus-024-0022"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0023",
+    "aliases": [
+      "PN-corpus-024-0023",
+      "SKU-CORPUS-024-0023",
+      "proto_SKU-corpus-024-0023",
+      "SKU-corpus-024-0023_revB"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0024",
+    "aliases": [
+      "SKU_corpus_024_0024",
+      "SKU-CORPUS-024-0024"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0025",
+    "aliases": [
+      "SKU_corpus_024_0025",
+      "PN-corpus-024-0025",
+      "SKU-CORPUS-024-0025",
+      "SKU-corpus-024-0025_revB"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0026",
+    "aliases": [
+      "PN-corpus-024-0026",
+      "SKU-CORPUS-024-0026"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0027",
+    "aliases": [
+      "sku-corpus-024-0027",
+      "SKU-CORPUS-024-0027",
+      "PN-corpus-024-0027"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0028",
+    "aliases": [
+      "SKU-corpus-024-0028_revB",
+      "proto_SKU-corpus-024-0028",
+      "PN-corpus-024-0028",
+      "SKU-CORPUS-024-0028"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0029",
+    "aliases": [
+      "SKU-corpus-024-0029_revB",
+      "PN-corpus-024-0029",
+      "SKU_corpus_024_0029"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0030",
+    "aliases": [
+      "SKU-corpus-024-0030_revB",
+      "sku-corpus-024-0030",
+      "SKU-CORPUS-024-0030"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0031",
+    "aliases": [
+      "SKU-CORPUS-024-0031",
+      "sku-corpus-024-0031",
+      "PN-corpus-024-0031"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0032",
+    "aliases": [
+      "SKU_corpus_024_0032",
+      "sku-corpus-024-0032"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0033",
+    "aliases": [
+      "PN-corpus-024-0033",
+      "proto_SKU-corpus-024-0033"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0034",
+    "aliases": [
+      "PN-corpus-024-0034",
+      "sku-corpus-024-0034"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0035",
+    "aliases": [
+      "sku-corpus-024-0035",
+      "PN-corpus-024-0035"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0036",
+    "aliases": [
+      "SKU-corpus-024-0036_revB",
+      "proto_SKU-corpus-024-0036",
+      "SKU_corpus_024_0036"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0037",
+    "aliases": [
+      "SKU-CORPUS-024-0037",
+      "SKU-corpus-024-0037_revB",
+      "sku-corpus-024-0037"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0038",
+    "aliases": [
+      "sku-corpus-024-0038"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0039",
+    "aliases": [
+      "PN-corpus-024-0039",
+      "SKU-CORPUS-024-0039"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0040",
+    "aliases": [
+      "proto_SKU-corpus-024-0040",
+      "SKU-CORPUS-024-0040",
+      "sku-corpus-024-0040",
+      "PN-corpus-024-0040"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0041",
+    "aliases": [
+      "sku-corpus-024-0041",
+      "PN-corpus-024-0041"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0042",
+    "aliases": [
+      "SKU_corpus_024_0042",
+      "SKU-CORPUS-024-0042",
+      "PN-corpus-024-0042"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0043",
+    "aliases": [
+      "PN-corpus-024-0043",
+      "sku-corpus-024-0043",
+      "proto_SKU-corpus-024-0043"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0044",
+    "aliases": [
+      "proto_SKU-corpus-024-0044",
+      "SKU-corpus-024-0044_revB"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0045",
+    "aliases": [
+      "sku-corpus-024-0045",
+      "SKU_corpus_024_0045",
+      "SKU-CORPUS-024-0045"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0046",
+    "aliases": [
+      "SKU-corpus-024-0046_revB",
+      "SKU-CORPUS-024-0046",
+      "PN-corpus-024-0046"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0047",
+    "aliases": [
+      "PN-corpus-024-0047",
+      "SKU_corpus_024_0047"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0048",
+    "aliases": [
+      "SKU_corpus_024_0048",
+      "PN-corpus-024-0048"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0049",
+    "aliases": [
+      "sku-corpus-024-0049",
+      "SKU-corpus-024-0049_revB"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0050",
+    "aliases": [
+      "PN-corpus-024-0050",
+      "SKU-CORPUS-024-0050"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0051",
+    "aliases": [
+      "SKU-corpus-024-0051_revB",
+      "SKU_corpus_024_0051"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0052",
+    "aliases": [
+      "PN-corpus-024-0052",
+      "SKU_corpus_024_0052"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0053",
+    "aliases": [
+      "proto_SKU-corpus-024-0053",
+      "sku-corpus-024-0053"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0054",
+    "aliases": [
+      "SKU-CORPUS-024-0054",
+      "SKU_corpus_024_0054",
+      "PN-corpus-024-0054",
+      "SKU-corpus-024-0054_revB"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0055",
+    "aliases": [
+      "proto_SKU-corpus-024-0055",
+      "SKU-CORPUS-024-0055",
+      "SKU-corpus-024-0055_revB"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0056",
+    "aliases": [
+      "SKU-corpus-024-0056_revB"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0057",
+    "aliases": [
+      "SKU_corpus_024_0057",
+      "SKU-corpus-024-0057_revB",
+      "PN-corpus-024-0057"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0058",
+    "aliases": [
+      "PN-corpus-024-0058",
+      "SKU-corpus-024-0058_revB",
+      "proto_SKU-corpus-024-0058",
+      "sku-corpus-024-0058"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0059",
+    "aliases": [
+      "SKU_corpus_024_0059"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0060",
+    "aliases": [
+      "SKU-corpus-024-0060_revB",
+      "PN-corpus-024-0060",
+      "SKU_corpus_024_0060"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0061",
+    "aliases": [
+      "proto_SKU-corpus-024-0061",
+      "sku-corpus-024-0061"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0062",
+    "aliases": [
+      "SKU_corpus_024_0062",
+      "PN-corpus-024-0062",
+      "sku-corpus-024-0062",
+      "proto_SKU-corpus-024-0062"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0063",
+    "aliases": [
+      "SKU_corpus_024_0063",
+      "SKU-corpus-024-0063_revB",
+      "PN-corpus-024-0063"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0064",
+    "aliases": [
+      "SKU-corpus-024-0064_revB",
+      "SKU_corpus_024_0064",
+      "proto_SKU-corpus-024-0064"
+    ]
+  },
+  {
+    "canonical_id": "SKU-corpus-024-0065",
+    "aliases": [
+      "proto_SKU-corpus-024-0065",
+      "PN-corpus-024-0065"
+    ]
+  }
+]

@@ -1,0 +1,4 @@
+# scenario=env_humidity_low
+product_alias,SKU-CORPUS-007-0041
+metric,value
+env_humidity_low,376.4023

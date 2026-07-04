@@ -1,0 +1,4 @@
+# scenario=env_humidity_low
+product_alias,PN-corpus-019-0000
+metric,value
+env_humidity_low,402.3119

@@ -1,0 +1,3 @@
+SCENARIO=fan_rpm_50pct
+ALIAS=PN-corpus-023-0004
+VALUE=45.3614

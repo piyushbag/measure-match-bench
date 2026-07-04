@@ -1,0 +1,3 @@
+SCENARIO=throughput_buffer_occupancy
+ALIAS=sku-corpus-018-0004
+VALUE=339.9678

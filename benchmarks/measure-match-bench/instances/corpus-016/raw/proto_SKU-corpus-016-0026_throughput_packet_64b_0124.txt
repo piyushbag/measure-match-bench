@@ -1,0 +1,3 @@
+SCENARIO=throughput_packet_64b
+ALIAS=proto_SKU-corpus-016-0026
+VALUE=101.3095

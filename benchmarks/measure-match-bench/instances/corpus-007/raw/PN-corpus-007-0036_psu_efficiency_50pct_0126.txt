@@ -1,0 +1,3 @@
+SCENARIO=psu_efficiency_50pct
+ALIAS=PN-corpus-007-0036
+VALUE=199.4522

@@ -1,0 +1,4 @@
+# scenario=throughput_power_correlation
+product_alias,proto_SKU-corpus-005-0027
+metric,value
+throughput_power_correlation,117.2059

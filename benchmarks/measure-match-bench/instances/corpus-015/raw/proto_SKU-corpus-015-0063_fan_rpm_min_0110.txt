@@ -1,0 +1,3 @@
+SCENARIO=fan_rpm_min
+ALIAS=proto_SKU-corpus-015-0063
+VALUE=340.4906

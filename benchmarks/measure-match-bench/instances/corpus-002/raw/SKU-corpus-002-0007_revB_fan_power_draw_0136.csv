@@ -1,0 +1,4 @@
+# scenario=fan_power_draw
+product_alias,SKU-corpus-002-0007_revB
+metric,value
+fan_power_draw,362.8564

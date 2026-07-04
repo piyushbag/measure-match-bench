@@ -1,0 +1,4 @@
+# scenario=thermal_soak_30min
+product_alias,PN-corpus-021-0038
+metric,value
+thermal_soak_30min,169.9744

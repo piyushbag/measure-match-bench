@@ -1,0 +1,3 @@
+SCENARIO=throughput_oversubscription
+ALIAS=proto_SKU-corpus-002-0032
+VALUE=293.8775

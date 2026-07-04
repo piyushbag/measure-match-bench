@@ -1,0 +1,3 @@
+SCENARIO=throughput_warmup
+ALIAS=SKU-corpus-012-0061_revB
+VALUE=412.1975

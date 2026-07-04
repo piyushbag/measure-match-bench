@@ -1,0 +1,4 @@
+# scenario=fan_rpm_50pct
+product_alias,PN-corpus-018-0007
+metric,value
+fan_rpm_50pct,388.7290

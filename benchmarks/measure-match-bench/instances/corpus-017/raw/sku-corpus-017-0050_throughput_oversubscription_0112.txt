@@ -1,0 +1,3 @@
+SCENARIO=throughput_oversubscription
+ALIAS=sku-corpus-017-0050
+VALUE=63.7920

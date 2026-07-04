@@ -1,0 +1,4 @@
+# scenario=fan_redundancy_failover
+product_alias,proto_SKU-corpus-006-0060
+metric,value
+fan_redundancy_failover,250.2026

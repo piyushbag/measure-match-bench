@@ -1,0 +1,3 @@
+SCENARIO=fan_acoustic_proxy
+ALIAS=PN-corpus-018-0048
+VALUE=286.4556

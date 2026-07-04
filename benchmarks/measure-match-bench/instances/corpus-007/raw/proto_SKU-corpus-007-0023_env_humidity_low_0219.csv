@@ -1,0 +1,4 @@
+# scenario=env_humidity_low
+product_alias,proto_SKU-corpus-007-0023
+metric,value
+env_humidity_low,42.9238

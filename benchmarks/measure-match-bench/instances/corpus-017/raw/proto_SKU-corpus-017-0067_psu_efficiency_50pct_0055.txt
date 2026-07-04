@@ -1,0 +1,3 @@
+SCENARIO=psu_efficiency_50pct
+ALIAS=proto_SKU-corpus-017-0067
+VALUE=327.2746

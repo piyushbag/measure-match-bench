@@ -1,0 +1,3 @@
+SCENARIO=throughput_packet_1518b
+ALIAS=PN-corpus-020-0004
+VALUE=235.0642

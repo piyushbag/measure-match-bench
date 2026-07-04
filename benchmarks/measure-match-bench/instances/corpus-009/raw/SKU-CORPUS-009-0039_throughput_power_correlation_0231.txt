@@ -1,0 +1,3 @@
+SCENARIO=throughput_power_correlation
+ALIAS=SKU-CORPUS-009-0039
+VALUE=169.3648

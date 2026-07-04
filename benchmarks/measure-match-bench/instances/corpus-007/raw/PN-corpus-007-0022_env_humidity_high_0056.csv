@@ -1,0 +1,4 @@
+# scenario=env_humidity_high
+product_alias,PN-corpus-007-0022
+metric,value
+env_humidity_high,274.8574

@@ -1,0 +1,64 @@
+\documentclass[conference]{IEEEtran}
+\usepackage{cite}
+\usepackage{amsmath,amssymb}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{url}
+\urlstyle{same}
+\usepackage[hidelinks,breaklinks]{hyperref}
+\usepackage{balance}
+
+\begin{document}
+
+\title{MeasureMatch-Bench: LLM Entity Resolution and Retrieval over Unstructured Hardware Measurement Corpora}
+
+\author{\IEEEauthorblockN{Piyush Jagadish Bag}
+\IEEEauthorblockA{\textit{Independent Researcher}\\
+\textit{ECAD validation and test automation}\\
+Santa Clara, CA, USA\\
+piyushbag4@gmail.com}}
+
+\maketitle
+
+\begin{abstract}
+Post-silicon validation teams archive instrument exports under inconsistent product aliases, heterogeneous file formats, and scenario-specific folder conventions.
+Retrieving a single metric (e.g., wall power at line rate for a given SKU) can require days of manual search across thousands of files.
+Existing power benchmarks target chip or LLM-inference energy, not lab measurement corpora; entity-matching research rarely addresses hardware validation aliases at archive scale.
+We introduce \textbf{MeasureMatch-Bench}, a public benchmark of 24 synthetic corpora ($\sim$6{,}000 files, 46 scenario types) with gold labels for four tasks: (T1) product identity resolution, (T2) format detection and normalization, (T3) scenario-targeted retrieval, and (T4) cross-corpus question answering.
+We release a reproducible harness comparing rule, embedding, and open-weight LLM pipelines.
+% Empirical numbers in §VI only after harness run on v1.0.0 release corpus.
+\end{abstract}
+
+\begin{IEEEkeywords}
+hardware validation, entity resolution, measurement data, retrieval-augmented generation, benchmark
+\end{IEEEkeywords}
+
+\section{Introduction}
+% TODO: quantify manual search cost; gap = no public benchmark for measurement corpus alignment
+
+\section{Background}
+% Optional; may move earlier after related work draft
+
+\section{Related Work}
+% Differentiation table: TokenPowerBench, aerospace LLM+KG test data, entity matching, test analytics agents
+
+\section{Benchmark Design}
+% T1--T4, 46 scenario types, 12 corpora, schema
+
+\section{Reference Pipelines}
+% R0 rules, R1 embeddings, R2 LLM+RAG, R3 agent (optional)
+
+\section{Experiments}
+% Real harness output only
+
+\section{Discussion}
+
+\section{Conclusion}
+
+\section*{Data Availability}
+% GitHub release + Zenodo DOI — no pending placeholders
+
+\bibliographystyle{IEEEtran}
+\bibliography{references}
+\balance
+\end{document}

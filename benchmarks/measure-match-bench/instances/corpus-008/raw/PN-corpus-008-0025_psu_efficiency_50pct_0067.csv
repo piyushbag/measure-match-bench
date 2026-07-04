@@ -1,0 +1,4 @@
+# scenario=psu_efficiency_50pct
+product_alias,PN-corpus-008-0025
+metric,value
+psu_efficiency_50pct,50.1323

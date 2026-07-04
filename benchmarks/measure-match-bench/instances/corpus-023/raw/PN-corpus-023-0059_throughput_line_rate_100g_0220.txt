@@ -1,0 +1,3 @@
+SCENARIO=throughput_line_rate_100g
+ALIAS=PN-corpus-023-0059
+VALUE=107.3092

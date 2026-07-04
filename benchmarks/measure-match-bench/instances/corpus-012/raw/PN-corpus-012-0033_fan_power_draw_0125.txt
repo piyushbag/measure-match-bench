@@ -1,0 +1,3 @@
+SCENARIO=fan_power_draw
+ALIAS=PN-corpus-012-0033
+VALUE=370.7391

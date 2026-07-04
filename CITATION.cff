@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+title: MeasureMatch-Bench
+message: "If you use this benchmark, please cite:"
+authors:
+  - family-names: Bag
+    given-names: Piyush Jagadish
+    email: piyushbag4@gmail.com
+repository-code: "https://github.com/piyushbag/measure-match-bench"
+url: "https://github.com/piyushbag/measure-match-bench"
+license: Apache-2.0
+version: 0.1.0
+keywords:
+  - hardware validation
+  - entity resolution
+  - measurement data
+  - retrieval-augmented generation
+preferred-citation:
+  type: conference-paper
+  title: "MeasureMatch-Bench: LLM Entity Resolution and Retrieval over Unstructured Hardware Measurement Corpora"
+  authors:
+    - family-names: Bag
+      given-names: Piyush Jagadish
+  year: 2026

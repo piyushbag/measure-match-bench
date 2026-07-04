@@ -1,0 +1,4 @@
+# scenario=throughput_line_rate_400g
+product_alias,SKU-corpus-002-0023_revB
+metric,value
+throughput_line_rate_400g,226.7984

@@ -1,0 +1,4 @@
+# scenario=fan_rpm_50pct
+product_alias,sku-corpus-022-0017
+metric,value
+fan_rpm_50pct,47.9069

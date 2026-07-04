@@ -1,0 +1,3 @@
+SCENARIO=psu_internal_rail_12v
+ALIAS=sku-corpus-022-0045
+VALUE=29.0422

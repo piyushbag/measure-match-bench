@@ -1,0 +1,4 @@
+# scenario=throughput_packet_imix
+product_alias,PN-corpus-016-0010
+metric,value
+throughput_packet_imix,83.5078

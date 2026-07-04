@@ -1,0 +1,4 @@
+# scenario=psu_internal_rail_3v3
+product_alias,proto_SKU-corpus-006-0024
+metric,value
+psu_internal_rail_3v3,331.8710

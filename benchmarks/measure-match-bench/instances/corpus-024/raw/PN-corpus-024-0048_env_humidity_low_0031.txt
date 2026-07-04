@@ -1,0 +1,3 @@
+SCENARIO=env_humidity_low
+ALIAS=PN-corpus-024-0048
+VALUE=349.6346

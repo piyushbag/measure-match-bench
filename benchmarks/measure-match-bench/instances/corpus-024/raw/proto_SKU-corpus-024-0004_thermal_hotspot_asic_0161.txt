@@ -1,0 +1,3 @@
+SCENARIO=thermal_hotspot_asic
+ALIAS=proto_SKU-corpus-024-0004
+VALUE=402.1960

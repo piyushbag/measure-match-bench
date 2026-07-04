@@ -1,0 +1,3 @@
+SCENARIO=fan_power_draw
+ALIAS=proto_SKU-corpus-024-0043
+VALUE=335.3489

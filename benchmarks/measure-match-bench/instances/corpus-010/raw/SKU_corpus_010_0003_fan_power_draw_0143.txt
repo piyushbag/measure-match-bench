@@ -1,0 +1,3 @@
+SCENARIO=fan_power_draw
+ALIAS=SKU_corpus_010_0003
+VALUE=434.6516

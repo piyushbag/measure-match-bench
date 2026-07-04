@@ -1,0 +1,3 @@
+SCENARIO=psu_internal_rail_3v3
+ALIAS=SKU_corpus_007_0020
+VALUE=365.9548

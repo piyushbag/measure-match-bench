@@ -1,0 +1,3 @@
+SCENARIO=throughput_packet_imix
+ALIAS=SKU_corpus_008_0016
+VALUE=57.1028

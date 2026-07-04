@@ -1,0 +1,4 @@
+# scenario=fan_stall_detection
+product_alias,PN-corpus-017-0001
+metric,value
+fan_stall_detection,452.5781

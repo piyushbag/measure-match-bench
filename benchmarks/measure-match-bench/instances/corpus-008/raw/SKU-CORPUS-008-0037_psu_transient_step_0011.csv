@@ -1,0 +1,4 @@
+# scenario=psu_transient_step
+product_alias,SKU-CORPUS-008-0037
+metric,value
+psu_transient_step,433.5043

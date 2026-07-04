@@ -1,0 +1,3 @@
+SCENARIO=fan_zone_rear
+ALIAS=sku-corpus-002-0019
+VALUE=49.7689

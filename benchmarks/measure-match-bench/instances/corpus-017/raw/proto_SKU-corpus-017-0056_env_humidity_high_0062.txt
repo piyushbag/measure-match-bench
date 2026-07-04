@@ -1,0 +1,3 @@
+SCENARIO=env_humidity_high
+ALIAS=proto_SKU-corpus-017-0056
+VALUE=368.9274

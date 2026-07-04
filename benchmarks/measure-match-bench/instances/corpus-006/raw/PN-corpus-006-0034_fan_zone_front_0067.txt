@@ -1,0 +1,3 @@
+SCENARIO=fan_zone_front
+ALIAS=PN-corpus-006-0034
+VALUE=138.6939

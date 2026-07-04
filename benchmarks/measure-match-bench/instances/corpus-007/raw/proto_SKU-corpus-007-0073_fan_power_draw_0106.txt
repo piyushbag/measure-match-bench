@@ -1,0 +1,3 @@
+SCENARIO=fan_power_draw
+ALIAS=proto_SKU-corpus-007-0073
+VALUE=424.3744

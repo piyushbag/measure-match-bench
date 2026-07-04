@@ -1,0 +1,4 @@
+# scenario=throughput_warmup
+product_alias,PN-corpus-013-0042
+metric,value
+throughput_warmup,365.1295

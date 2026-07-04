@@ -1,0 +1,4 @@
+# scenario=thermal_outlet_delta
+product_alias,PN-corpus-007-0014
+metric,value
+thermal_outlet_delta,465.5034

@@ -1,0 +1,4 @@
+# scenario=fan_stall_detection
+product_alias,proto_SKU-corpus-013-0023
+metric,value
+fan_stall_detection,399.5739

@@ -1,0 +1,3 @@
+SCENARIO=fan_rpm_min
+ALIAS=SKU_corpus_016_0027
+VALUE=188.0216

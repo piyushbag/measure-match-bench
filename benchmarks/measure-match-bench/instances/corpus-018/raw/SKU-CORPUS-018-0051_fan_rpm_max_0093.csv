@@ -1,0 +1,4 @@
+# scenario=fan_rpm_max
+product_alias,SKU-CORPUS-018-0051
+metric,value
+fan_rpm_max,288.3847

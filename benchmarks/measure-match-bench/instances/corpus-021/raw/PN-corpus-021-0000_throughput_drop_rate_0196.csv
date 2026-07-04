@@ -1,0 +1,4 @@
+# scenario=throughput_drop_rate
+product_alias,PN-corpus-021-0000
+metric,value
+throughput_drop_rate,318.1421

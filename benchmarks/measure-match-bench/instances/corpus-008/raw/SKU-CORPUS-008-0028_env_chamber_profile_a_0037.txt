@@ -1,0 +1,3 @@
+SCENARIO=env_chamber_profile_a
+ALIAS=SKU-CORPUS-008-0028
+VALUE=320.6977

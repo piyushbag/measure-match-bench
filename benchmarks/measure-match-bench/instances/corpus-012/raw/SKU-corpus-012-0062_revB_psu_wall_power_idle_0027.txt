@@ -1,0 +1,3 @@
+SCENARIO=psu_wall_power_idle
+ALIAS=SKU-corpus-012-0062_revB
+VALUE=207.9584

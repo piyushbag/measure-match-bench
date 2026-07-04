@@ -1,0 +1,3 @@
+SCENARIO=fan_power_draw
+ALIAS=SKU-corpus-002-0021_revB
+VALUE=337.0769

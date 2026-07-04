@@ -1,0 +1,3 @@
+SCENARIO=thermal_inlet_delta
+ALIAS=proto_SKU-corpus-013-0020
+VALUE=492.8911

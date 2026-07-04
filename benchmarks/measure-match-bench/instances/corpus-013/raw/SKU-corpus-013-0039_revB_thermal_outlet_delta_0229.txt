@@ -1,0 +1,3 @@
+SCENARIO=thermal_outlet_delta
+ALIAS=SKU-corpus-013-0039_revB
+VALUE=154.5263

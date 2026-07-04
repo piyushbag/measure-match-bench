@@ -1,0 +1,3 @@
+SCENARIO=thermal_hotspot_asic
+ALIAS=SKU-corpus-002-0001_revB
+VALUE=10.8569

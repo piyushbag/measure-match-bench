@@ -1,0 +1,3 @@
+SCENARIO=fan_redundancy_failover
+ALIAS=SKU-corpus-023-0058_revB
+VALUE=75.2458

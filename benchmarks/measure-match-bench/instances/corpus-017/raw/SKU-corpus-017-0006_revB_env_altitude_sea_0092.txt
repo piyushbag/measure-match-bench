@@ -1,0 +1,3 @@
+SCENARIO=env_altitude_sea
+ALIAS=SKU-corpus-017-0006_revB
+VALUE=110.8954

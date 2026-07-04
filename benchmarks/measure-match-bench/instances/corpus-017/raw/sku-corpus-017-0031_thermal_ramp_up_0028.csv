@@ -1,0 +1,4 @@
+# scenario=thermal_ramp_up
+product_alias,sku-corpus-017-0031
+metric,value
+thermal_ramp_up,213.9403

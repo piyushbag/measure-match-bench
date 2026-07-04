@@ -1,0 +1,3 @@
+SCENARIO=throughput_packet_64b
+ALIAS=sku-corpus-009-0022
+VALUE=252.7910

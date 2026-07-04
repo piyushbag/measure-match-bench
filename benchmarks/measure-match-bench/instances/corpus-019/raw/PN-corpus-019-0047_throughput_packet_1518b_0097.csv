@@ -1,0 +1,4 @@
+# scenario=throughput_packet_1518b
+product_alias,PN-corpus-019-0047
+metric,value
+throughput_packet_1518b,13.7967

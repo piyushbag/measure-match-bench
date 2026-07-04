@@ -1,0 +1,3 @@
+SCENARIO=throughput_packet_imix
+ALIAS=SKU-CORPUS-011-0020
+VALUE=96.7919

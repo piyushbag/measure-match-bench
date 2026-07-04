@@ -1,0 +1,4 @@
+# scenario=thermal_hotspot_asic
+product_alias,proto_SKU-corpus-023-0052
+metric,value
+thermal_hotspot_asic,423.8523

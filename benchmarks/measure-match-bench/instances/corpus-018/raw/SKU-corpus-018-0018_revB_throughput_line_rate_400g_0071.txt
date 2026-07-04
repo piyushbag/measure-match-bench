@@ -1,0 +1,3 @@
+SCENARIO=throughput_line_rate_400g
+ALIAS=SKU-corpus-018-0018_revB
+VALUE=487.5842

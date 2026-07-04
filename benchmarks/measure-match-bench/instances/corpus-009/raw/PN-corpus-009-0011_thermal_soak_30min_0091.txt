@@ -1,0 +1,3 @@
+SCENARIO=thermal_soak_30min
+ALIAS=PN-corpus-009-0011
+VALUE=326.1418

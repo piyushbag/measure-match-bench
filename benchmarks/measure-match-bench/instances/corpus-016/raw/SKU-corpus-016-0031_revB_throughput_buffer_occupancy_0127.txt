@@ -1,0 +1,3 @@
+SCENARIO=throughput_buffer_occupancy
+ALIAS=SKU-corpus-016-0031_revB
+VALUE=413.6492

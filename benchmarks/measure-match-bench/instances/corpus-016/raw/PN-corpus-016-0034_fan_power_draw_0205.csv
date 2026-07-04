@@ -1,0 +1,4 @@
+# scenario=fan_power_draw
+product_alias,PN-corpus-016-0034
+metric,value
+fan_power_draw,345.5501

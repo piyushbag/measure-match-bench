@@ -1,0 +1,3 @@
+SCENARIO=thermal_ambient_45c
+ALIAS=PN-corpus-022-0008
+VALUE=296.6981

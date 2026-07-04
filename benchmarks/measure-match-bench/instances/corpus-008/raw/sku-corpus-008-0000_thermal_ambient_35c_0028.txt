@@ -1,0 +1,3 @@
+SCENARIO=thermal_ambient_35c
+ALIAS=sku-corpus-008-0000
+VALUE=369.9050

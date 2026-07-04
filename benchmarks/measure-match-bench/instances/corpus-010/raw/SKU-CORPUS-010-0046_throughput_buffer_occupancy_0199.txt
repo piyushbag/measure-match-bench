@@ -1,0 +1,3 @@
+SCENARIO=throughput_buffer_occupancy
+ALIAS=SKU-CORPUS-010-0046
+VALUE=179.3652

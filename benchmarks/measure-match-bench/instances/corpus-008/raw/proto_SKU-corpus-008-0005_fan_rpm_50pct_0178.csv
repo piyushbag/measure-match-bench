@@ -1,0 +1,4 @@
+# scenario=fan_rpm_50pct
+product_alias,proto_SKU-corpus-008-0005
+metric,value
+fan_rpm_50pct,326.4448

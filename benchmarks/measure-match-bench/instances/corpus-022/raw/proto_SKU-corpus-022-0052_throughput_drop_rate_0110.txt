@@ -1,0 +1,3 @@
+SCENARIO=throughput_drop_rate
+ALIAS=proto_SKU-corpus-022-0052
+VALUE=294.2854

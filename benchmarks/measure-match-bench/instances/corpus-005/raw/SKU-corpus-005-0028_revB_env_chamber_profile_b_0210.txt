@@ -1,0 +1,3 @@
+SCENARIO=env_chamber_profile_b
+ALIAS=SKU-corpus-005-0028_revB
+VALUE=52.6471

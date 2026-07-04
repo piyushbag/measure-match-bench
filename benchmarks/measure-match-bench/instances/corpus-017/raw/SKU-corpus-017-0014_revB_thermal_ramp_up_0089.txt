@@ -1,0 +1,3 @@
+SCENARIO=thermal_ramp_up
+ALIAS=SKU-corpus-017-0014_revB
+VALUE=133.2971

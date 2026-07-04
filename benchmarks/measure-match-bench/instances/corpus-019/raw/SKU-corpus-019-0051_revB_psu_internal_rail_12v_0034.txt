@@ -1,0 +1,3 @@
+SCENARIO=psu_internal_rail_12v
+ALIAS=SKU-corpus-019-0051_revB
+VALUE=451.1518

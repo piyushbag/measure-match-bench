@@ -1,0 +1,4 @@
+# scenario=thermal_hotspot_psu
+product_alias,sku-corpus-018-0001
+metric,value
+thermal_hotspot_psu,374.0159

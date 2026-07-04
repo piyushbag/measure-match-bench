@@ -1,0 +1,3 @@
+SCENARIO=fan_rpm_min
+ALIAS=SKU-corpus-020-0035_revB
+VALUE=62.7869

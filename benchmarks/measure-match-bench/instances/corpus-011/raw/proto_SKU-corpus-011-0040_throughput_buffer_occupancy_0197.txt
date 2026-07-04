@@ -1,0 +1,3 @@
+SCENARIO=throughput_buffer_occupancy
+ALIAS=proto_SKU-corpus-011-0040
+VALUE=166.6643

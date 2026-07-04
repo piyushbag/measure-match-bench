@@ -1,0 +1,4 @@
+# scenario=psu_transient_step
+product_alias,proto_SKU-corpus-019-0022
+metric,value
+psu_transient_step,103.1255

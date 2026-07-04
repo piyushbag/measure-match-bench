@@ -1,0 +1,3 @@
+SCENARIO=throughput_packet_imix
+ALIAS=proto_SKU-corpus-006-0032
+VALUE=166.0717

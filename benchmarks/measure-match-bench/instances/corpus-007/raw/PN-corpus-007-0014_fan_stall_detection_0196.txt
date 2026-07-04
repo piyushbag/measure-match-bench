@@ -1,0 +1,3 @@
+SCENARIO=fan_stall_detection
+ALIAS=PN-corpus-007-0014
+VALUE=335.7460

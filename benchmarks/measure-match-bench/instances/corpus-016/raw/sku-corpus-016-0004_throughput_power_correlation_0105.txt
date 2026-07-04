@@ -1,0 +1,3 @@
+SCENARIO=throughput_power_correlation
+ALIAS=sku-corpus-016-0004
+VALUE=345.1015

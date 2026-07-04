@@ -1,0 +1,3 @@
+SCENARIO=throughput_warmup
+ALIAS=proto_SKU-corpus-015-0027
+VALUE=330.5194

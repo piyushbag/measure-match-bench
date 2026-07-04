@@ -1,0 +1,4 @@
+# scenario=throughput_steady_state
+product_alias,SKU-CORPUS-010-0009
+metric,value
+throughput_steady_state,415.1116

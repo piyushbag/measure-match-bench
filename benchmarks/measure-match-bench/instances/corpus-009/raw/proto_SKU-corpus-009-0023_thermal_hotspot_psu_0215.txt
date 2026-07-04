@@ -1,0 +1,3 @@
+SCENARIO=thermal_hotspot_psu
+ALIAS=proto_SKU-corpus-009-0023
+VALUE=245.9588

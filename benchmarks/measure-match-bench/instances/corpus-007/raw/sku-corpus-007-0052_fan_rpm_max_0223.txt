@@ -1,0 +1,3 @@
+SCENARIO=fan_rpm_max
+ALIAS=sku-corpus-007-0052
+VALUE=443.0786

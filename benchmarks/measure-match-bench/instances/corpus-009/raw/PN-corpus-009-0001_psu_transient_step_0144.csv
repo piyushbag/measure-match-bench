@@ -1,0 +1,4 @@
+# scenario=psu_transient_step
+product_alias,PN-corpus-009-0001
+metric,value
+psu_transient_step,144.6604

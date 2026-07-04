@@ -1,0 +1,3 @@
+SCENARIO=fan_cfm_vs_pwm
+ALIAS=SKU-corpus-019-0009_revB
+VALUE=431.8300

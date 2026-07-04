@@ -1,0 +1,3 @@
+SCENARIO=thermal_hotspot_psu
+ALIAS=SKU-corpus-001-0078_revB
+VALUE=208.9768

@@ -1,0 +1,4 @@
+# scenario=thermal_soak_30min
+product_alias,SKU-CORPUS-013-0036
+metric,value
+thermal_soak_30min,305.2421

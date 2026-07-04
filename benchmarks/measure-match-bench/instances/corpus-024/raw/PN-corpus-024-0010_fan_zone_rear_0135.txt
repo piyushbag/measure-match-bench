@@ -1,0 +1,3 @@
+SCENARIO=fan_zone_rear
+ALIAS=PN-corpus-024-0010
+VALUE=188.7234

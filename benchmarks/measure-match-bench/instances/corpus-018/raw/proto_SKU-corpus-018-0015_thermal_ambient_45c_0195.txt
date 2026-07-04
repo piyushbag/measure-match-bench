@@ -1,0 +1,3 @@
+SCENARIO=thermal_ambient_45c
+ALIAS=proto_SKU-corpus-018-0015
+VALUE=96.3744

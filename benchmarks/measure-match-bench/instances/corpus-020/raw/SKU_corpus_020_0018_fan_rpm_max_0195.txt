@@ -1,0 +1,3 @@
+SCENARIO=fan_rpm_max
+ALIAS=SKU_corpus_020_0018
+VALUE=365.1332

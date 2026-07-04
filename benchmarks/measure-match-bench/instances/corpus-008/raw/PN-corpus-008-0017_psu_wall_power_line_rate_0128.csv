@@ -1,0 +1,4 @@
+# scenario=psu_wall_power_line_rate
+product_alias,PN-corpus-008-0017
+metric,value
+psu_wall_power_line_rate,444.5988

@@ -1,0 +1,3 @@
+SCENARIO=psu_transient_step
+ALIAS=SKU_corpus_011_0047
+VALUE=108.6454

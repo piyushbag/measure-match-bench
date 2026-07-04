@@ -1,0 +1,3 @@
+SCENARIO=psu_efficiency_50pct
+ALIAS=sku-corpus-019-0051
+VALUE=285.1259

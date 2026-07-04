@@ -1,0 +1,3 @@
+SCENARIO=throughput_steady_state
+ALIAS=proto_SKU-corpus-020-0055
+VALUE=496.2972

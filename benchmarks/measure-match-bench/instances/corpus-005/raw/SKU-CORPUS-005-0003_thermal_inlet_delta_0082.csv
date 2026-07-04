@@ -1,0 +1,4 @@
+# scenario=thermal_inlet_delta
+product_alias,SKU-CORPUS-005-0003
+metric,value
+thermal_inlet_delta,111.8007

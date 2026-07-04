@@ -1,0 +1,4 @@
+# scenario=fan_rpm_max
+product_alias,proto_SKU-corpus-008-0008
+metric,value
+fan_rpm_max,107.0964

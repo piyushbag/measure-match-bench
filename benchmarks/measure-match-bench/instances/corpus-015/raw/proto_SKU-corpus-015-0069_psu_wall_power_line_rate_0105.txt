@@ -1,0 +1,3 @@
+SCENARIO=psu_wall_power_line_rate
+ALIAS=proto_SKU-corpus-015-0069
+VALUE=124.7863

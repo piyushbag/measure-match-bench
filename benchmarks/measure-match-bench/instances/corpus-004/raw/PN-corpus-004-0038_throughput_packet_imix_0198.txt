@@ -1,0 +1,3 @@
+SCENARIO=throughput_packet_imix
+ALIAS=PN-corpus-004-0038
+VALUE=10.8365

@@ -1,0 +1,3 @@
+SCENARIO=psu_transient_step
+ALIAS=proto_SKU-corpus-020-0013
+VALUE=404.4242

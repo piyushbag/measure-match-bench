@@ -1,0 +1,3 @@
+SCENARIO=fan_zone_front
+ALIAS=sku-corpus-021-0070
+VALUE=281.5853

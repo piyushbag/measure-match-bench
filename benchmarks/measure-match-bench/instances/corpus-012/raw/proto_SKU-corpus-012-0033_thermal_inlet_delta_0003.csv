@@ -1,0 +1,4 @@
+# scenario=thermal_inlet_delta
+product_alias,proto_SKU-corpus-012-0033
+metric,value
+thermal_inlet_delta,396.4756

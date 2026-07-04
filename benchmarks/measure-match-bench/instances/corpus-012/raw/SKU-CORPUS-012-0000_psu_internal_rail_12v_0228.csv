@@ -1,0 +1,4 @@
+# scenario=psu_internal_rail_12v
+product_alias,SKU-CORPUS-012-0000
+metric,value
+psu_internal_rail_12v,242.3396

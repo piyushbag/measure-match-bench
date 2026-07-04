@@ -1,0 +1,4 @@
+# scenario=psu_internal_rail_12v
+product_alias,PN-corpus-003-0011
+metric,value
+psu_internal_rail_12v,111.5601

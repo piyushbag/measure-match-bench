@@ -1,0 +1,3 @@
+SCENARIO=thermal_outlet_delta
+ALIAS=proto_SKU-corpus-020-0032
+VALUE=265.6008

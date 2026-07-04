@@ -1,0 +1,4 @@
+# scenario=fan_power_draw
+product_alias,SKU_corpus_009_0059
+metric,value
+fan_power_draw,423.1671

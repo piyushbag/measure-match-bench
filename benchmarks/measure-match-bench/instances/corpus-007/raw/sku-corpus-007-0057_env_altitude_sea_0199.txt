@@ -1,0 +1,3 @@
+SCENARIO=env_altitude_sea
+ALIAS=sku-corpus-007-0057
+VALUE=312.0898

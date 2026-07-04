@@ -1,0 +1,3 @@
+SCENARIO=psu_efficiency_80pct
+ALIAS=SKU-corpus-016-0040_revB
+VALUE=292.9339

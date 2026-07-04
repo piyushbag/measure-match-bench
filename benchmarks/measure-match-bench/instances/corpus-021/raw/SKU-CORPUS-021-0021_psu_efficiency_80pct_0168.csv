@@ -1,0 +1,4 @@
+# scenario=psu_efficiency_80pct
+product_alias,SKU-CORPUS-021-0021
+metric,value
+psu_efficiency_80pct,356.9655

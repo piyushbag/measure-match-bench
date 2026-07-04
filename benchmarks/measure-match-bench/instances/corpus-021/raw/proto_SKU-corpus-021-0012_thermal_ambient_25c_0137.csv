@@ -1,0 +1,4 @@
+# scenario=thermal_ambient_25c
+product_alias,proto_SKU-corpus-021-0012
+metric,value
+thermal_ambient_25c,326.0882

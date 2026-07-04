@@ -1,0 +1,3 @@
+SCENARIO=fan_acoustic_proxy
+ALIAS=proto_SKU-corpus-019-0043
+VALUE=463.9324

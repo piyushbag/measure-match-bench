@@ -1,0 +1,3 @@
+SCENARIO=throughput_power_correlation
+ALIAS=proto_SKU-corpus-020-0054
+VALUE=92.5024

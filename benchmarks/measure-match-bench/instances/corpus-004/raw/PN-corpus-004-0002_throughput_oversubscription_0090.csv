@@ -1,0 +1,4 @@
+# scenario=throughput_oversubscription
+product_alias,PN-corpus-004-0002
+metric,value
+throughput_oversubscription,40.5637

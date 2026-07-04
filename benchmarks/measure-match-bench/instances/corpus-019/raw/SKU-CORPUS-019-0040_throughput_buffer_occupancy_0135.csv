@@ -1,0 +1,4 @@
+# scenario=throughput_buffer_occupancy
+product_alias,SKU-CORPUS-019-0040
+metric,value
+throughput_buffer_occupancy,312.7691

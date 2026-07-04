@@ -1,0 +1,4 @@
+# scenario=throughput_power_correlation
+product_alias,SKU-CORPUS-002-0031
+metric,value
+throughput_power_correlation,232.4078

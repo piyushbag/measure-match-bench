@@ -1,0 +1,3 @@
+SCENARIO=throughput_packet_64b
+ALIAS=sku-corpus-015-0067
+VALUE=167.4145

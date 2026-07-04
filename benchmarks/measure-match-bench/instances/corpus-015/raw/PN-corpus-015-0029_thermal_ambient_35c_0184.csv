@@ -1,0 +1,4 @@
+# scenario=thermal_ambient_35c
+product_alias,PN-corpus-015-0029
+metric,value
+thermal_ambient_35c,294.9492

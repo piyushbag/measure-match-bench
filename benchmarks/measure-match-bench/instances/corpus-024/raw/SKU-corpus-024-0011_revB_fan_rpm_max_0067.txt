@@ -1,0 +1,3 @@
+SCENARIO=fan_rpm_max
+ALIAS=SKU-corpus-024-0011_revB
+VALUE=125.1005

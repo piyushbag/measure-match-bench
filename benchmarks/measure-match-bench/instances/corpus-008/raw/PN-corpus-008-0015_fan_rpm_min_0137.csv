@@ -1,0 +1,4 @@
+# scenario=fan_rpm_min
+product_alias,PN-corpus-008-0015
+metric,value
+fan_rpm_min,208.9587

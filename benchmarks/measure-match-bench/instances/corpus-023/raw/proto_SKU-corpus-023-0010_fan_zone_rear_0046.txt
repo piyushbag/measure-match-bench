@@ -1,0 +1,3 @@
+SCENARIO=fan_zone_rear
+ALIAS=proto_SKU-corpus-023-0010
+VALUE=289.5191

@@ -1,0 +1,3 @@
+SCENARIO=throughput_packet_64b
+ALIAS=SKU-corpus-003-0017_revB
+VALUE=199.4068

@@ -1,0 +1,3 @@
+SCENARIO=thermal_ambient_35c
+ALIAS=PN-corpus-016-0010
+VALUE=220.8507

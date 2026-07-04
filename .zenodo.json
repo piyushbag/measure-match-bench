@@ -1,0 +1,27 @@
+{
+  "title": "MeasureMatch-Bench v1.0.0",
+  "description": "Synthetic benchmark and evaluation harness for LLM entity resolution and retrieval over unstructured hardware validation measurement corpora.",
+  "upload_type": "dataset",
+  "creators": [
+    {
+      "name": "Bag, Piyush Jagadish",
+      "affiliation": "Independent Researcher",
+      "orcid": ""
+    }
+  ],
+  "keywords": [
+    "hardware validation",
+    "entity resolution",
+    "measurement data",
+    "retrieval-augmented generation"
+  ],
+  "license": "Apache-2.0",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/piyushbag/measure-match-bench",
+      "resource_type": "software"
+    }
+  ],
+  "version": "1.0.0"
+}

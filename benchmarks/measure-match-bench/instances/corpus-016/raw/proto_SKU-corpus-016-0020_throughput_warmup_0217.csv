@@ -1,0 +1,4 @@
+# scenario=throughput_warmup
+product_alias,proto_SKU-corpus-016-0020
+metric,value
+throughput_warmup,493.7093

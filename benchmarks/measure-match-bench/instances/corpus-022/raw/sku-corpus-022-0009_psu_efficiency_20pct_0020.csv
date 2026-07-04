@@ -1,0 +1,4 @@
+# scenario=psu_efficiency_20pct
+product_alias,sku-corpus-022-0009
+metric,value
+psu_efficiency_20pct,497.3304

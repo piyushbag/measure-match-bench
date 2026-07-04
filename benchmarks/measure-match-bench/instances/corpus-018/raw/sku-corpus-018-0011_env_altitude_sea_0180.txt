@@ -1,0 +1,3 @@
+SCENARIO=env_altitude_sea
+ALIAS=sku-corpus-018-0011
+VALUE=330.5526

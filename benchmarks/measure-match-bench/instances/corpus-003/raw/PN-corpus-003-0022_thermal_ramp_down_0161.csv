@@ -1,0 +1,4 @@
+# scenario=thermal_ramp_down
+product_alias,PN-corpus-003-0022
+metric,value
+thermal_ramp_down,205.1929

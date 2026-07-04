@@ -1,0 +1,4 @@
+# scenario=fan_rpm_max
+product_alias,SKU-corpus-005-0006_revB
+metric,value
+fan_rpm_max,73.8258

@@ -1,0 +1,3 @@
+SCENARIO=thermal_ramp_up
+ALIAS=PN-corpus-018-0030
+VALUE=117.3119

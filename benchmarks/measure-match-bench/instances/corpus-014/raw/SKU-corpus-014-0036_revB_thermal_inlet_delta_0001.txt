@@ -1,0 +1,3 @@
+SCENARIO=thermal_inlet_delta
+ALIAS=SKU-corpus-014-0036_revB
+VALUE=274.2850

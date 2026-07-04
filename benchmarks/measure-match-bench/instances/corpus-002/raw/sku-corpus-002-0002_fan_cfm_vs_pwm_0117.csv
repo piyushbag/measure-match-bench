@@ -1,0 +1,4 @@
+# scenario=fan_cfm_vs_pwm
+product_alias,sku-corpus-002-0002
+metric,value
+fan_cfm_vs_pwm,252.9260

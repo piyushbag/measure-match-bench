@@ -1,0 +1,3 @@
+SCENARIO=thermal_ramp_up
+ALIAS=SKU_corpus_016_0001
+VALUE=176.2315

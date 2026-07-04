@@ -1,0 +1,4 @@
+# scenario=fan_rpm_min
+product_alias,SKU-CORPUS-014-0044
+metric,value
+fan_rpm_min,263.9596

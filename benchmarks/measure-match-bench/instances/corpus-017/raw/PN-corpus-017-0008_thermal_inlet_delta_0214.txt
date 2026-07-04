@@ -1,0 +1,3 @@
+SCENARIO=thermal_inlet_delta
+ALIAS=PN-corpus-017-0008
+VALUE=51.7901

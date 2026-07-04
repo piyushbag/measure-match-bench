@@ -1,0 +1,4 @@
+# scenario=throughput_warmup
+product_alias,SKU-corpus-021-0003_revB
+metric,value
+throughput_warmup,423.4020

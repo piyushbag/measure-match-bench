@@ -1,0 +1,3 @@
+SCENARIO=throughput_drop_rate
+ALIAS=PN-corpus-011-0019
+VALUE=122.9948

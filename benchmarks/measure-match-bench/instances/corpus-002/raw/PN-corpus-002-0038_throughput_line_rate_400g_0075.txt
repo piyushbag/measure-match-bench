@@ -1,0 +1,3 @@
+SCENARIO=throughput_line_rate_400g
+ALIAS=PN-corpus-002-0038
+VALUE=164.4866

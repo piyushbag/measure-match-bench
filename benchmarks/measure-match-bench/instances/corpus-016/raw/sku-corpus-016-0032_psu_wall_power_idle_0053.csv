@@ -1,0 +1,4 @@
+# scenario=psu_wall_power_idle
+product_alias,sku-corpus-016-0032
+metric,value
+psu_wall_power_idle,349.0023

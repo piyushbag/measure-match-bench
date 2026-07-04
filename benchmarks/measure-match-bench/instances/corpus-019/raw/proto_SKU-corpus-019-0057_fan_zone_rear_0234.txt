@@ -1,0 +1,3 @@
+SCENARIO=fan_zone_rear
+ALIAS=proto_SKU-corpus-019-0057
+VALUE=374.5417

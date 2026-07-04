@@ -1,0 +1,3 @@
+SCENARIO=psu_wall_power_line_rate
+ALIAS=sku-corpus-010-0042
+VALUE=241.6002

@@ -1,0 +1,3 @@
+SCENARIO=thermal_ambient_25c
+ALIAS=PN-corpus-017-0072
+VALUE=203.3021

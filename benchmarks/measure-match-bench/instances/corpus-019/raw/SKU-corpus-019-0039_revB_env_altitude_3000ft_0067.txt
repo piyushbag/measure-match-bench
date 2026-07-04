@@ -1,0 +1,3 @@
+SCENARIO=env_altitude_3000ft
+ALIAS=SKU-corpus-019-0039_revB
+VALUE=47.2842

@@ -1,0 +1,3 @@
+SCENARIO=fan_zone_front
+ALIAS=proto_SKU-corpus-017-0071
+VALUE=125.3716

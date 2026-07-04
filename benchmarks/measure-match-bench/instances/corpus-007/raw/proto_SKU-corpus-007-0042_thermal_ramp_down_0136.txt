@@ -1,0 +1,3 @@
+SCENARIO=thermal_ramp_down
+ALIAS=proto_SKU-corpus-007-0042
+VALUE=350.8420

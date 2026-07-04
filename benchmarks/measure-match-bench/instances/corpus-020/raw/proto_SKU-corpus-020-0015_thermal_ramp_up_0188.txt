@@ -1,0 +1,3 @@
+SCENARIO=thermal_ramp_up
+ALIAS=proto_SKU-corpus-020-0015
+VALUE=315.3791

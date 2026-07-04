@@ -1,0 +1,3 @@
+SCENARIO=psu_wall_power_idle
+ALIAS=PN-corpus-011-0015
+VALUE=128.2158

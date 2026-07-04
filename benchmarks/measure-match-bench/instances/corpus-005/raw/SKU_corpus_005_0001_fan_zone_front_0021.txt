@@ -1,0 +1,3 @@
+SCENARIO=fan_zone_front
+ALIAS=SKU_corpus_005_0001
+VALUE=387.8860

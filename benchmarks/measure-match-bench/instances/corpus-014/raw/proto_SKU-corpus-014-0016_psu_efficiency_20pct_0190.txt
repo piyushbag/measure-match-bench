@@ -1,0 +1,3 @@
+SCENARIO=psu_efficiency_20pct
+ALIAS=proto_SKU-corpus-014-0016
+VALUE=372.6092

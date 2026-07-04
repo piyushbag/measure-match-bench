@@ -1,0 +1,4 @@
+# scenario=thermal_inlet_delta
+product_alias,PN-corpus-008-0041
+metric,value
+thermal_inlet_delta,284.9695

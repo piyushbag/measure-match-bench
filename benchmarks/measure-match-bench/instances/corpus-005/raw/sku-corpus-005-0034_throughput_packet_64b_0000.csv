@@ -1,0 +1,4 @@
+# scenario=throughput_packet_64b
+product_alias,sku-corpus-005-0034
+metric,value
+throughput_packet_64b,315.4227

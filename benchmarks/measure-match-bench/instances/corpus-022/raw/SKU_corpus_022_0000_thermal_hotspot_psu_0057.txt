@@ -1,0 +1,3 @@
+SCENARIO=thermal_hotspot_psu
+ALIAS=SKU_corpus_022_0000
+VALUE=256.5864

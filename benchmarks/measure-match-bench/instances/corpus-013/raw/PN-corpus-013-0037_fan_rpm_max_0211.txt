@@ -1,0 +1,3 @@
+SCENARIO=fan_rpm_max
+ALIAS=PN-corpus-013-0037
+VALUE=381.3411

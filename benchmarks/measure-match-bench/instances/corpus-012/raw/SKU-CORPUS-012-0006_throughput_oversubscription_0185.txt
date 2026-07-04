@@ -1,0 +1,3 @@
+SCENARIO=throughput_oversubscription
+ALIAS=SKU-CORPUS-012-0006
+VALUE=437.5315

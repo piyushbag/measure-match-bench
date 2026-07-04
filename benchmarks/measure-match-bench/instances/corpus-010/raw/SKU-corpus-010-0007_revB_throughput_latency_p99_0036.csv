@@ -1,0 +1,4 @@
+# scenario=throughput_latency_p99
+product_alias,SKU-corpus-010-0007_revB
+metric,value
+throughput_latency_p99,128.8304

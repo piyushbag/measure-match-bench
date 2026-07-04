@@ -1,0 +1,3 @@
+SCENARIO=throughput_drop_rate
+ALIAS=SKU-corpus-022-0006_revB
+VALUE=19.6935

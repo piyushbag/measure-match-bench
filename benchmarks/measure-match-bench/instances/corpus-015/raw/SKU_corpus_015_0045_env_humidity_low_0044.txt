@@ -1,0 +1,3 @@
+SCENARIO=env_humidity_low
+ALIAS=SKU_corpus_015_0045
+VALUE=272.8492

@@ -1,0 +1,3 @@
+SCENARIO=psu_internal_rail_12v
+ALIAS=PN-corpus-005-0020
+VALUE=187.9718

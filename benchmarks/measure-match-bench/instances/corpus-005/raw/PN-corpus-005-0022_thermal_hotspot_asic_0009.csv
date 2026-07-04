@@ -1,0 +1,4 @@
+# scenario=thermal_hotspot_asic
+product_alias,PN-corpus-005-0022
+metric,value
+thermal_hotspot_asic,473.5094

@@ -1,0 +1,3 @@
+SCENARIO=throughput_steady_state
+ALIAS=sku-corpus-024-0039
+VALUE=460.1896

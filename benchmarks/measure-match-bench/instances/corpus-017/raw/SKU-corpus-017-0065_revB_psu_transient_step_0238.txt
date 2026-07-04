@@ -1,0 +1,3 @@
+SCENARIO=psu_transient_step
+ALIAS=SKU-corpus-017-0065_revB
+VALUE=261.8364

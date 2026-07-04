@@ -1,0 +1,4 @@
+# scenario=fan_redundancy_failover
+product_alias,SKU-corpus-009-0034_revB
+metric,value
+fan_redundancy_failover,142.0554

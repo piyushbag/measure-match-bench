@@ -1,0 +1,3 @@
+SCENARIO=fan_rpm_max
+ALIAS=proto_SKU-corpus-015-0035
+VALUE=38.6081

@@ -1,0 +1,3 @@
+SCENARIO=throughput_line_rate_100g
+ALIAS=SKU_corpus_007_0019
+VALUE=454.2194

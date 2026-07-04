@@ -1,0 +1,4 @@
+# scenario=fan_redundancy_failover
+product_alias,PN-corpus-012-0060
+metric,value
+fan_redundancy_failover,267.2595

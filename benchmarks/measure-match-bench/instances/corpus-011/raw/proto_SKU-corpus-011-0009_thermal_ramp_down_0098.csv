@@ -1,0 +1,4 @@
+# scenario=thermal_ramp_down
+product_alias,proto_SKU-corpus-011-0009
+metric,value
+thermal_ramp_down,136.3515

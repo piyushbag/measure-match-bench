@@ -1,0 +1,4 @@
+# scenario=throughput_buffer_occupancy
+product_alias,PN-corpus-015-0068
+metric,value
+throughput_buffer_occupancy,34.1238

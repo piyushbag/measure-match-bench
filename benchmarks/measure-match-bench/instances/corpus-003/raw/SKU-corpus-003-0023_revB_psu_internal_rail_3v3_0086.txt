@@ -1,0 +1,3 @@
+SCENARIO=psu_internal_rail_3v3
+ALIAS=SKU-corpus-003-0023_revB
+VALUE=424.2723

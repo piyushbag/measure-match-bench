@@ -1,0 +1,4 @@
+# scenario=thermal_soak_30min
+product_alias,proto_SKU-corpus-006-0043
+metric,value
+thermal_soak_30min,388.2842
